@@ -1,0 +1,6 @@
+.env
+.venv/
+.vscode/
+__pycache__/
+sales_data.csv
+sales_master_batch_*.csv
